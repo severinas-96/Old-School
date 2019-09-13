@@ -1,0 +1,27 @@
+{
+  "name": "Old School ",
+  "component": false,
+  "license_url": null,
+  "about_url": null,
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+  },
+  "color_schemes": {
+    "New Color Scheme": {
+      "primary": "000000",
+      "secondary": "a5d9e4",
+      "tertiary": "3c2e24",
+      "quaternary": "674732",
+      "header_background": "fcf0da",
+      "header_primary": "674732",
+      "highlight": "a5d9e4",
+      "danger": "cf1611",
+      "success": "57bf57",
+      "love": "7ecaee"
+    }
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
